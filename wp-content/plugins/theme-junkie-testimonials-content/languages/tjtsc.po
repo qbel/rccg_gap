@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Junkie Testimonials Content\n"
+"POT-Creation-Date: 2014-04-28 12:39+0700\n"
+"PO-Revision-Date: 2014-04-28 12:39+0700\n"
+"Last-Translator: Satrya <satrya@satrya.me>\n"
+"Language-Team: Theme Junkie <satrya@theme-junkie.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/admin.php:44
+msgid "Enter testimonial title here"
+msgstr ""
+
+#: ../admin/admin.php:64
+msgid "Title"
+msgstr ""
+
+#: ../admin/admin.php:68 ../admin/metabox.php:57
+msgid "Name"
+msgstr ""
+
+#: ../admin/admin.php:71
+msgid "Image"
+msgstr ""
+
+#: ../admin/admin.php:73
+msgid "Order"
+msgstr ""
+
+#: ../admin/metabox.php:33
+msgid "Testimonial Settings"
+msgstr ""
+
+#: ../admin/metabox.php:58
+msgid "The autor name."
+msgstr ""
+
+#: ../admin/metabox.php:63
+msgid "John Doe"
+msgstr ""
+
+#: ../admin/metabox.php:72
+msgid "Avatar"
+msgstr ""
+
+#: ../admin/metabox.php:73
+msgid "Upload or insert author avatar."
+msgstr ""
+
+#: ../admin/metabox.php:79 ../tj-testimonials-content.php:156
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/metabox.php:88 ../admin/metabox.php:94
+msgid "Website Name"
+msgstr ""
+
+#: ../admin/metabox.php:89
+msgid "The autor website name."
+msgstr ""
+
+#: ../admin/metabox.php:103
+msgid "Website URL"
+msgstr ""
+
+#: ../admin/metabox.php:104
+msgid "The autor website url."
+msgstr ""
+
+#: ../admin/metabox.php:109
+msgid "http://example.com/"
+msgstr ""
+
+#: ../inc/functions.php:22 ../inc/post-type.php:25 ../inc/post-type.php:27
+#: ../inc/post-type.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/messages.php:28
+#, php-format
+msgid "Testimonial updated. <a href=\"%s\">View Testimonial</a>"
+msgstr ""
+
+#: ../inc/messages.php:29
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/messages.php:30
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/messages.php:31
+msgid "Testimonial updated."
+msgstr ""
+
+#: ../inc/messages.php:32
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: ../inc/messages.php:33
+#, php-format
+msgid "Testimonial published. <a href=\"%s\">View It</a>"
+msgstr ""
+
+#: ../inc/messages.php:34
+msgid "Testimonial saved."
+msgstr ""
+
+#: ../inc/messages.php:35
+#, php-format
+msgid ""
+"Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview Testimonial</"
+"a>"
+msgstr ""
+
+#: ../inc/messages.php:36
+#, php-format
+msgid ""
+"Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Testimonial</a>"
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: ../inc/messages.php:38
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../inc/messages.php:39
+#, php-format
+msgid ""
+"Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Testimonial</a>"
+msgstr ""
+
+#: ../inc/post-type.php:26 ../inc/post-type.php:28 ../inc/widget.php:29
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/post-type.php:30
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-type.php:31
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/post-type.php:32
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/post-type.php:33
+msgid "New Testimonial"
+msgstr ""
+
+#: ../inc/post-type.php:34
+msgid "View Testimonial"
+msgstr ""
+
+#: ../inc/post-type.php:35
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../inc/post-type.php:36
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../inc/post-type.php:37
+msgid "No Testimonials found in trash"
+msgstr ""
+
+#: ../inc/widget.php:23
+msgid "Display custom testimonials content."
+msgstr ""
+
+#: ../inc/widget.php:99
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widget.php:106
+msgid "Title URL:"
+msgstr ""
+
+#: ../inc/widget.php:113
+msgid "Number of testimonials to show: "
+msgstr ""
+
+#: ../inc/widget.php:116
+msgid "to show all testimonials."
+msgstr ""
+
+#: ../inc/widget.php:121
+msgid "Grid Columns: "
+msgstr ""
+
+#: ../inc/widget.php:124
+msgid "Display testimonials per row."
+msgstr ""
+
+#: ../inc/widget.php:129
+msgid "CSS Class:"
+msgstr ""
+
+#: ../inc/widget.php:132
+msgid "Unique class for the widget."
+msgstr ""
+
+#: ../inc/widget.php:137
+msgid "HTML before the testimonials: "
+msgstr ""
+
+#: ../inc/widget.php:144
+msgid "HTML after the testimonials: "
+msgstr ""
+
+#: ../tj-testimonials-content.php:155
+msgid "Upload or Choose Image"
+msgstr ""

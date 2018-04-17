@@ -1,0 +1,23 @@
+#tjtsc-block {
+	border-bottom: 1px solid #eee;
+	overflow: hidden;
+}
+
+.tjtsc-label {
+	padding: 20px 0;
+	display: inline;
+	float: left;
+	margin-right: 5%;
+	width: 25%;
+}
+
+.tjtsc-label .description {
+	color: #999;
+}
+
+.tjtsc-input {
+	padding: 25px 0;
+	display: inline;
+	float: right;
+	width: 70%;
+}
